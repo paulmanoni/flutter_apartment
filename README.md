@@ -2,6 +2,6 @@
 
 <p> I have been working on apartment app using flutter</p>
 <h3>Home Screen</h3>
-<img src="https://github.com/paulmanoni/flutter_apartment/blob/master/assets/Screenshot_20200712-080643.jpg" width='40%' height='60%'/>
+<img src="https://github.com/paulmanoni/flutter_apartment/blob/master/assets/Screenshot_20200712-080643.jpg" width='30%' height='50%'/>
 <h3>Detail Screen</h3>
-<img src="https://github.com/paulmanoni/flutter_apartment/blob/master/assets/Screenshot_20200712-081929.jpg" width='40%' height='60%'/>
+<img src="https://github.com/paulmanoni/flutter_apartment/blob/master/assets/Screenshot_20200712-081929.jpg" width='30%' height='50%'/>
