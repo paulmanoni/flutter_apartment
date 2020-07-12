@@ -8,7 +8,7 @@ class RoomDetail extends StatelessWidget {
         Padding(
           padding: const EdgeInsets.all(16.0),
           child: Text(
-            "Hey guys！It is the main page and the detail page about my food app.Hope you like it and have a nice day！Looking for UI design? Learn more about my works here and contact me: tauhidsajib143@gma",
+            "Hey guys！It is the main page and the detail page about my apartment app.Hope you like it and have a nice day！Looking for UI design",
             overflow: TextOverflow.ellipsis,
             softWrap: true,
             maxLines: 3,
